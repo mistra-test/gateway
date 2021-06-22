@@ -1,0 +1,4 @@
+core:
+  route:
+    catalog-service: "http://localhost:8780"
+    authentication-service: "http://localhost:8760"
